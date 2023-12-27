@@ -1,0 +1,3 @@
+ALTER TABLE employee
+ADD COLUMN salary DECIMAL(10, 2),
+ADD COLUMN hire_date DATE;
